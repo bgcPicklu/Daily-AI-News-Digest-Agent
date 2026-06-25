@@ -10,43 +10,43 @@ An automated AI-powered news intelligence platform that collects technology news
 ### 🚀 Features
 #### 📰 News Collection
 * Collects news from multiple RSS sources:
-   **TechCrunch
-   **The Hacker News
-   **New York Times Technology
-   **The Verge
+   * TechCrunch
+   * The Hacker News
+   * New York Times Technology
+   * The Verge
 #### 🤖 AI Summarization
-**Uses Ollama + Llama models
-**Generates concise article summaries
-**Produces digest-ready content
+* Uses Ollama + Llama models
+* Generates concise article summaries
+* Produces digest-ready content
 #### 🔍 Semantic Deduplication
-**Uses Sentence Transformers
-**Detects duplicate stories via embedding similarity
-**Removes redundant news automatically
+* Uses Sentence Transformers
+* Detects duplicate stories via embedding similarity
+* Removes redundant news automatically
 #### 📈 AI Ranking Engine
-**Scores articles based on:
-   **AI
-   **Python
-   **Machine Learning
-   **Cybersecurity
-   **Cloud Computing
+* Scores articles based on:
+   * AI
+   * Python
+   * Machine Learning
+   * Cybersecurity
+   * Cloud Computing
 #### 📊 Analytics Dashboard
-**Interactive charts
-**Topic distribution analysis
-**Source distribution analysis
-**Pipeline monitoring
+* Interactive charts
+* Topic distribution analysis
+* Source distribution analysis
+* Pipeline monitoring
 #### 📬 Notifications
-**Email Digest
-**Telegram Notifications
-**Slack Alerts
+* Email Digest
+* Telegram Notifications
+* Slack Alerts
 #### 💾 Database Storage
-**SQLite support
-**Stores:
-    **Articles
-    **Digests
-    **Rankings
+* SQLite support
+* Stores:
+    * Articles
+    * Digests
+    * Rankings
 #### ⏰ Automated Scheduling
-**APScheduler integration
-**Daily automated execution
+* APScheduler integration
+* Daily automated execution
 ### 🏗️ Architecture
 ```text
 RSS Feeds
@@ -216,12 +216,12 @@ GET /run
 
 Runs:
 
-**RSS Collection
-**Deduplication
-**Summarization
-**Ranking
-**Digest Generation
-**Notifications
+* RSS Collection
+* Deduplication
+* Summarization
+* Ranking
+* Digest Generation
+* Notifications
 #### Dashboard
 GET /dashboard
 
@@ -247,14 +247,14 @@ scheduler.add_job(
 Starts every day at 07:00 AM.
 
 ### 📈 Future Enhancements
-**Multi-language support
-**entiment analysis
-**Trending topic detection
-**User authentication
-**PostgreSQL support
-**Kubernetes deployment
-**AI-generated newsletters
-**Historical trend analysis
+* Multi-language support
+* entiment analysis
+* Trending topic detection
+* User authentication
+* PostgreSQL support
+* Kubernetes deployment
+* AI-generated newsletters
+* Historical trend analysis
 ### 🛡️ Tech Stack
 
 |Component | Technology |
