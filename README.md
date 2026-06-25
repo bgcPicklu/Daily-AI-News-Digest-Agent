@@ -274,11 +274,17 @@ Contributions are welcome.
 
 1. Fork the repository
 2. Create a feature branch
+```text
 git checkout -b feature/new-feature
+```
 3. Commit changes
+```text
 git commit -m "Add new feature"
+```
 4. Push branch
+```text
 git push origin feature/new-feature
+```
 5. Open Pull Request
 ### 📄 License
 
