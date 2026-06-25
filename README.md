@@ -9,7 +9,7 @@ An automated AI-powered news intelligence platform that collects technology news
 
 ### 🚀 Features
 #### 📰 News Collection
-**Collects news from multiple RSS sources:
+* Collects news from multiple RSS sources:
    **TechCrunch
    **The Hacker News
    **New York Times Technology
